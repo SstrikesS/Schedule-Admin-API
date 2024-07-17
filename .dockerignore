@@ -1,0 +1,16 @@
+.idea
+.git
+_bash
+README.md
+.dockerignore
+vendor
+Dockerfile-*
+docker-compose.yml
+storage/app/public/*
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/testing/*
+storage/framework/views/*
+storage/logs/*
+storage/files
+storage/tmp
